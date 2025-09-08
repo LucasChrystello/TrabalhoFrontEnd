@@ -35,3 +35,21 @@ Esse protótipo segue a ideia de wireframes semelhantes aos desenvolvidos no **F
 ---
 
 ## 📂 Estrutura do Repositório  
+📁 plataforma-filmes-series-doc
+│── 📄 README.md → Este arquivo
+│── 📄 documentacao.pdf → Documento com diagramas e descrição
+│── 📁 prototipo-visual
+│ │── index.html
+│ │── style.css
+
+---
+
+## Equipe  
+Projeto desenvolvido para a disciplina de **Laboratório de Programação Front End**  
+na **Universidade de Vassouras - Campus Saquarema**.
+- Lucas Chrystêllo
+- Lucas Malfacine
+- Lucca de Andrade
+- Gabriel Leal
+- Andre Carvalhal
+- Laryssa Meryene 
